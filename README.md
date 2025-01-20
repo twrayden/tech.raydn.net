@@ -2,9 +2,9 @@
 
 ## Sites
 
-- [ladesign.net](https://ladesign.net)
-- [top-stacks.com](https://top-stacks.com)
-- [parts4days.com](https://parts4days.com)
+- [LADesign](https://ladesign.net.au)
+- [Top Stacks](https://top-stacks.com)
+- [Parts 4 Days](https://parts4days.com)
 - [click4.beer](https://click4.beer)
 - [test-wifi.com](https://test-wifi.com)
-- [stocks.raydn.net](https://stocks.raydn.net)
+- [Rayden Investments](https://stocks.raydn.net)
