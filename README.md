@@ -8,3 +8,4 @@
 - [Click 4 Beer](https://click4.beer)
 - [Test Wi-Fi](https://test-wifi.com)
 - [Rayden Investments](https://stocks.raydn.net)
+- [StayOnHire](https://stayonhire.com)
