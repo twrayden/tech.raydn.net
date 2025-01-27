@@ -14,9 +14,9 @@
         }
 
         header {
-            background-color: #333;
+            background-color: #222;
             color: #fff;
-            padding: 1rem;
+            padding: 2rem 0;
             text-align: center;
         }
 
@@ -24,24 +24,28 @@
             margin: 0;
         }
 
-        main {
-            flex-grow: 1;
+        .hero {
+            background-color: #f0f0f0;
             padding: 2rem;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-
-        .container {
             text-align: center;
         }
 
         .services {
-            margin-top: 2rem;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            grid-gap: 2rem;
+            padding: 2rem;
         }
 
-        .services li {
-            margin-bottom: 1rem;
+        .service {
+            background-color: #fff;
+            padding: 2rem;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .service h3 {
+            margin-top: 0;
         }
     </style>
 </head>
@@ -51,12 +55,29 @@
         <h1>Rayden Technologies</h1>
     </header>
 
-    <main>
-        <div class="container">
-            <h2>Cloud Solutions & Software Development</h2>
-            <p>We build robust and scalable cloud applications tailored to your business needs.</p>
+    <section class="hero">
+        <h2>Cloud Solutions & Software Development</h2>
+        <p>We build robust and scalable cloud applications tailored to your business needs.</p>
+    </section>
+
+    <section class="services">
+        <div class="service">
+            <h3>Cloud Application Development</h3>
+            <p>Development of complex production-ready cloud applications or other large software solutions for clients (enterprise-grade software).</p>
         </div>
-    </main>
+        <div class="service">
+            <h3>Integrations</h3>
+            <p>Development of integrations with existing or new infrastructure to internal or external systems, such as an accounting integration with Xero or Intuit QuickBooks.</p>
+        </div>
+        <div class="service">
+            <h3>Performance & SEO Optimization</h3>
+            <p>Performance & SEO optimization for websites/web apps.</p>
+        </div>
+        <div class="service">
+            <h3>Project Management & Consulting</h3>
+            <p>Project management & expert technical advice or review of current infrastructure.</p>
+        </div>
+    </section>
 
     <footer>
         <div class="container">
