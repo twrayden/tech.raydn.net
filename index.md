@@ -19,6 +19,7 @@ layout: home
             <li><strong>Cloud Consulting & Migration:</strong> Evaluating your existing infrastructure and assisting in migrating it to the cloud to improve performance, scalability, and cost-effectiveness</li>
             <li><strong>Cloud Managed Services:</strong> Providing ongoing support and management for your cloud environment to ensure reliability, security and compliance</li>
         </ul>
+         <a href="/services/cloud-application-development">Learn more</a>
     </div>
     <div class="service">
         <h3>Integrations</h3>
@@ -28,6 +29,7 @@ layout: home
             <li><strong>Data Migration:</strong> Safely and efficiently migrating data between different systems and platforms</li>
             <li><strong>Integration Testing & Maintenance:</strong> Providing ongoing maintenance and support to ensure the smooth functioning of your integrations</li>
         </ul>
+        <a href="/services/integrations">Learn more</a>
     </div>
     <div class="service">
         <h3>Performance & SEO Optimization</h3>
@@ -37,6 +39,7 @@ layout: home
             <li><strong>On-Page SEO:</strong> We optimize the content on your website to improve its search engine rankings</li>
             <li><strong>Off-Page SEO:</strong> We build your website's authority and credibility through external factors</li>
         </ul>
+         <a href="/services/performance-and-seo-optimization">Learn more</a>
     </div>
     <div class="service">
         <h3>Project Management & Consulting</h3>
@@ -46,5 +49,6 @@ layout: home
             <li><strong>Project Execution & Oversight:</strong> Monitoring project progress, identifying and resolving any issues ensuring timely and quality delivery of project deliverables</li>
             <li><strong>Technical Consulting & Advice:</strong> Providing expert technical guidance and recommendations on technology choices, architecture, and best practices or review of existing infrastructure and identifying areas for improvement</li>
         </ul>
+         <a href="/services/project-management-and-consulting">Learn more</a>
     </div>
 </section>

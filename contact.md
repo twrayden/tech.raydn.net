@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+nav_label: Contact
 ---
 
 <script charset="utf-8" type="text/javascript" src="//js-na2.hsforms.net/forms/embed/v2.js"></script>
