@@ -29,6 +29,9 @@ facebook_username: raydentech
 instagram_username: raydentech
 youtube_username: raydentech
 
+plugins:
+  - jekyll-sitemap
+
 # Build settings
 theme: minima
 # Exclude from processing.
