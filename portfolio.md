@@ -4,6 +4,7 @@
 
 layout: page
 title: Portfolio
+permalink: /portfolio/
 nav_label: Portfolio
 ---
 

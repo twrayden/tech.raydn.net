@@ -4,6 +4,7 @@
 
 layout: page
 title: Accelerate your Cloud and AI Adoption with our Consulting Services in Perth
+permalink: /cloud-consulting-services-perth/
 ---
 
 With architectural flexibility and exponential technologies like generative AI, you can automate IT, modernize your applications for improved ROI, build cloud-native applications and manage them at scale—on your platform of choice.
