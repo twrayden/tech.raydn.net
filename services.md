@@ -4,6 +4,7 @@
 
 layout: page
 title: Services
+nav_label: Services
 ---
 
 ## Software Development
